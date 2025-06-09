@@ -1,0 +1,28 @@
+[
+    {
+        "key": "SLASH_PURPLE",
+        "frames": [0],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "SLASH_PURPLE"
+      },
+      {
+        "key": "FIRE",
+        "frames": [0],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "FIRE"
+      },
+      {
+        "key": "FIRE_START",
+        "frameRate": 8,
+        "repeat": 0,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "FIRE_START"
+      }
+]

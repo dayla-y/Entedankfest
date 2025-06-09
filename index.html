@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name = "viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Entedankfest</title>
+
+        <style>
+            html, body, .container{
+                margin: 0px;
+                height: 100vh;
+                width: 100vw;
+                overflow: hidden;
+                background-color:rgb(81, 77, 84);
+                image-rendering: pixelated; /*This is for avoid blurry*/
+            }
+            @font-face {
+                font-family: Kenneys-Font;
+                src: url('assets/fonts/kenneys-fonts/Kenney-Future-Narrow.ttf') format('truetype');
+            }
+            @font-face {
+                font-family: Cutive-Regular;
+                src: url('assets/fonts/caretodance-font/Caretodance-JrDn.ttf') format('truetype');
+            }
+            @font-face {
+                font-family: Caretodance-JrDnFont;
+                src: url('assets/fonts/CutiveRegular-4LJl.ttf') format('truetype');
+            }
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.min.js"></script>
+    </head>
+    <body>
+        <div class="container" id="game-container"></div>
+
+        <!-- Scripts -->
+        <script src="src/main.js" type = "module"></script>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+{
+    "1":{
+        "frames": 2,
+        "events":[
+            {
+                "type": "MESSAGE",
+                "data": {
+                    "messages": ["„Lemon Boy…?“", "„Ich weiß nicht, wo er ist, tut mir leid.“"]
+                }
+            }
+        ]
+    },
+    "2":{
+        "frames": 2,
+        "events":[
+            {
+                "type": "MESSAGE",
+                "data": {
+                    "messages":["Ich habe etwas zu essen, Len", "Du weißt, wie meine Blutlinienmagie funktioniert, also viel Spaß, Liebling~."]
+                }
+            },
+            {
+                "type": "HEAL",
+                "data": {}
+            },
+            {
+                "type": "SCENE_FADE_IN_AND_OUT",
+                "data": {
+                    "fadeInDuration": 1000,
+                    "fadeOutDuration": 1000,
+                    "waitDuration": 1000
+                }
+            },
+            {
+                "type": "MESSAGE",
+                "data": {
+                    "messages": ["Wie süß du beim Essen aussiehst~."]
+                }
+            }
+        ]
+    },
+    "3":{
+        "frames": 2,
+        "events":[
+            {
+                "type": "MESSAGE",
+                "data": {
+                    "messages": ["Belassen."]
+                }
+            }
+        ]
+    }
+}

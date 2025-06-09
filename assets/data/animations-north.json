@@ -1,0 +1,148 @@
+[
+    {
+        "key": "NORTH_DOWN_IDLE",
+        "frames": [0],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "NORTH"
+      },
+      {
+          "key": "NORTH_RIGHT_IDLE",
+          "frames": [20],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH"
+        },
+        {
+          "key": "NORTH_LEFT_IDLE",
+          "frames": [40],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH"
+        },
+        {
+          "key": "NORTH_UP_IDLE",
+          "frames": [60],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH"
+        },
+        
+    {
+      "key": "NORTH_DOWN",
+      "frames": [1, 2, 3, 4, 5, 6, 7],
+      "frameRate": 8,
+      "repeat": -1,
+      "delay": 0,
+      "yoyo": false,
+      "assetKey": "NORTH"
+    },
+    {
+        "key": "NORTH_RIGHT",
+        "frames": [21, 22, 23, 24, 25, 26, 27],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "NORTH"
+      },
+      {
+        "key": "NORTH_LEFT",
+        "frames": [41, 42, 43, 44, 45, 46, 47],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "NORTH"
+      },
+      {
+        "key": "NORTH_UP",
+        "frames": [61, 62, 63, 64, 65, 66, 67],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "NORTH"
+      },
+      {
+        "key": "NORTH_DOWN_SWORD",
+        "frames": [1, 2, 3, 4, 5, 6, 7],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "NORTH"
+      },
+      {
+          "key": "NORTH_RIGHT_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH"
+        },
+        {
+          "key": "NORTH_LEFT_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH_SWORD"
+        },
+        {
+          "key": "NORTH_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "NORTH_SWORD"
+        },
+        {
+            "key": "NORTH_DOWN_PAIN",
+            "frames": [8, 9, 10],
+            "frameRate": 8,
+            "repeat": -1,
+            "delay": 0,
+            "yoyo": false,
+            "assetKey": "NORTH"
+          },
+          {
+              "key": "NORTH_RIGHT_PAIN",
+              "frames": [29, 30, 31],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "NORTH"
+            },
+            {
+              "key": "NORTH_LEFT_PAIN",
+              "frames": [48, 49, 50],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "NORTH"
+            },
+            {
+              "key": "NORTH_UP_PAIN",
+              "frames": [68, 69, 70],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "NORTH"
+            }
+      
+]

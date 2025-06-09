@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Lampri food",
+        "description": "Looks a little weird, but actually is delicious",
+        "effect": "HEAL_30"
+    },
+    {
+        "id": 2,
+        "name": "Potion",
+        "description": "A basic healing item that will heal 30 HP",
+        "effect": "HEAL_30"
+    },
+    {
+        "id": 3,
+        "name": "Elixir",
+        "description": "Restores full HP and MP.",
+        "effect": 5
+    }
+    
+]

@@ -1,0 +1,219 @@
+[
+  {
+  "key": "KALEGO_RIGHT",
+  "frames": [6, 7, 8],
+  "frameRate": 5,
+  "repeat": -1,
+  "delay": 0,
+  "yoyo": true,
+  "assetKey": "KALEGO"
+},
+{
+  "key": "KALEGO_LEFT",
+  "frames": [3, 4, 5],
+  "frameRate": 5,
+  "repeat": -1,
+  "delay": 0,
+  "yoyo": true,
+  "assetKey": "KALEGO"
+},
+{
+  "key": "KALEGO_UP",
+  "frames": [9, 10, 11],
+  "frameRate": 5,
+  "repeat": -1,
+  "delay": 0,
+  "yoyo": true,
+  "assetKey": "KALEGO"
+},
+{
+  "key": "KALEGO_DOWN",
+  "frames": [0, 1, 2],
+  "frameRate": 5,
+  "repeat": -1,
+  "delay": 0,
+  "yoyo": true,
+  "assetKey": "KALEGO"
+},
+       
+    {
+      "key": "LYAN_DOWN",
+      "frames": [0, 1, 2, 3, 4, 5, 6, 7],
+      "frameRate": 8,
+      "repeat": -1,
+      "delay": 0,
+      "yoyo": false,
+      "assetKey": "LYAN"
+    },
+    {
+        "key": "LYAN_RIGHT",
+        "frames": [20, 21, 22, 23, 24, 25, 26, 27],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "LYAN"
+      },
+      {
+        "key": "LYAN_LEFT",
+        "frames": [40, 41, 42, 43, 44, 45, 46],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "LYAN"
+      },
+      {
+        "key": "LYAN_UP",
+        "frames": [60, 61, 62, 63, 64, 65, 66],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "LYAN"
+      },
+      {
+        "key": "LYAN_DOWN_SWORD",
+        "frames": [1, 2, 3, 4, 5, 6, 7],
+        "frameRate": 8,
+        "repeat": -1,
+        "delay": 0,
+        "yoyo": false,
+        "assetKey": "LYAN"
+      },
+      {
+          "key": "LYAN_RIGHT_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "LYAN"
+        },
+        {
+          "key": "LYAN_LEFT_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "LYAN_SWORD"
+        },
+        {
+          "key": "LYAN_SWORD",
+          "frames": [1, 2, 3, 4, 5, 6, 7],
+          "frameRate": 8,
+          "repeat": -1,
+          "delay": 0,
+          "yoyo": false,
+          "assetKey": "LYAN_SWORD"
+        },
+        {
+            "key": "LYAN_DOWN_PAIN",
+            "frames": [8, 9, 10],
+            "frameRate": 8,
+            "repeat": -1,
+            "delay": 0,
+            "yoyo": false,
+            "assetKey": "LYAN"
+          },
+          {
+              "key": "LYAN_RIGHT_PAIN",
+              "frames": [29, 30, 31],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "LYAN"
+            },
+            {
+              "key": "LYAN_LEFT_PAIN",
+              "frames": [48, 49, 50],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "LYAN"
+            },
+            {
+              "key": "LYAN_UP_PAIN",
+              "frames": [68, 69, 70],
+              "frameRate": 8,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": false,
+              "assetKey": "LYAN"
+            },
+            {
+              "key": "BEE_RIGHT",
+              "frames": [6, 7, 8],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "BEE"
+            },
+            {
+              "key": "BEE_LEFT",
+              "frames": [3, 4, 5],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "BEE"
+            },
+            {
+              "key": "BEE_UP",
+              "frames": [9, 10, 11],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "BEE"
+            },
+            {
+              "key": "BEE_DOWN",
+              "frames": [0, 1, 2],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "BEE"
+            },
+            {
+              "key": "FOCALORS_RIGHT",
+              "frames": [6, 7, 8],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "FOCALORS"
+            },
+            {
+              "key": "FOCALORS_LEFT",
+              "frames": [3, 4, 5],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "FOCALORS"
+            },
+            {
+              "key": "FOCALORS_UP",
+              "frames": [9, 10, 11],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "FOCALORS"
+            },
+            {
+              "key": "FOCALORS_DOWN",
+              "frames": [0, 1, 2],
+              "frameRate": 5,
+              "repeat": -1,
+              "delay": 0,
+              "yoyo": true,
+              "assetKey": "FOCALORS"
+            }
+]

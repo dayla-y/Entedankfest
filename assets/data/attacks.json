@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1 ,
+        "name": "La Fire",
+        "animationName": "LAFIRE",
+        "audioKey": "FIRE"
+    },
+    {
+        "id": 2,
+        "name": "Slash",
+        "animationName": "SLASH_PURPLE",
+        "audioKey": "SLASH"
+    },
+    {
+        "id": 3,
+        "name": "Dark Spell",
+        "animationName": "DARK_SPELL",
+        "audioKey": "SLASH"
+
+
+    },
+    {
+        "id": 4,
+        "name": "Libera",
+        "animationName": "FLAME_SLASH",
+        "audioKey": "SLASH"
+
+
+    },
+    {
+        "id": 5,
+        "name": "Poison",
+        "animationName": "GREEN_SLASH",
+        "audioKey": "SLASH"
+
+
+    }
+]

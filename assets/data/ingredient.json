@@ -1,0 +1,63 @@
+[
+    
+      {
+        "id": 1,
+        "ingredientId": 1,
+        "name": "Lyan",
+        "assetKey": "LYANEL",
+        "assetFrame":0,
+        "currentHp": 15,
+        "maxHp": 25,
+        "attackIds": [1, 4],
+        "baseAttack": 5,
+        "currentAttack": 5,
+        "currentLevel": 5,
+        "baseExp": 50,
+        "currentExp": 200
+          },
+
+          {
+            "id": 2,
+            "ingredientId": 2,
+            "name": "Ianthe",
+            "assetKey": "IANTHE",
+            "assetFrame":0,
+            "currentHp": 25,
+            "maxHp": 25,
+            "attackIds": [2],
+            "baseAttack": 5,
+            "currentAttack": 25,
+            "currentLevel": 10,
+            "baseExp": 52,
+            "currentExp": 125
+              },
+      {
+        "id": 3,
+        "ingredientId": 3,
+        "name": "Kamo",
+        "assetKey": "SHIMADA",
+        "assetFrame":0,
+        "currentHp": 15,
+        "maxHp": 25,
+        "attackIds": [5],
+        "baseAttack": 5,
+        "currentAttack": 5,
+        "currentLevel": 10,
+        "baseExp": 51,
+        "currentExp": 125
+          },{
+        "id": 4,
+        "ingredientId": 4,
+        "name": "North",
+        "assetKey": "KIMARIS",
+        "assetFrame":0,
+        "currentHp": 25,
+        "maxHp": 25,
+        "attackIds": [5],
+        "baseAttack": 5,
+        "currentAttack": 5,
+        "currentLevel": 10,
+        "baseExp": 50,
+        "currentExp": 125
+          }
+]
